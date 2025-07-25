@@ -1,0 +1,16 @@
+{
+  "n": 134217728,
+  "h_size": 582551,
+  "seed": 54000,
+  "t_copy2device": 0.175936,
+  "t_find_axis": 1009.806335,
+  "t_find_corners": 2363.487305,
+  "t_fill_poly": 0.567296,
+  "t_conf_rtx": 50.578495,
+  "t_build_rtx": 8.769696,
+  "t_prepare_rtx": 0.141312,
+  "t_launch_rtx": 551.038086,
+  "t_filter": 0.000000,
+  "t_compaction": 481.924103,
+  "t_copy2host": 531.663879
+}
